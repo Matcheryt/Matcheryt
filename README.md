@@ -5,4 +5,3 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Matcheryt alt=Matcheryt /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Matcheryt&show_icons=true&include_all_commits=true)](https://github.com/Matcheryt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matcheryt&layout=compact)](https://github.com/Matcheryt/github-readme-stats)
